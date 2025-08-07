@@ -58,15 +58,4 @@ cd previtemp
 - O layout foi feito para ser simples e responsivo.
 - **Aceito sugestões de melhorias!** Fique à vontade para abrir uma issue ou enviar um pull request.
 
----
 
-## 👨‍💻 Autor
-
-Davidson Silva  
-[LinkedIn](https://www.linkedin.com) | [Portfólio](https://devteststore.netlify.app/)
-
----
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE.txt](LICENSE) para mais detalhes.
